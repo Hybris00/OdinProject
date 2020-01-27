@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.profile_icon {
+  width: 30px;
+  height: auto;
+}
+
+.search_lens_icon {
+  width: 20px;
+  height: auto;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.head_div {
+  width: 33%;
+  height: auto;
+}
+
+.head_big_div {
+  width: 15%;
+  height: 100px;
+  justify-content: right;
+}
+
+.head {
+  width: 100%;
+  height: auto;
+  justify-content: space-around;
+}
+
+.space {
+  width: 70%;
+}
+
+.main_corp {
+  height: 80vh;
+  width: 100vw;
+}
+
+.footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
